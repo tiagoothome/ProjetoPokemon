@@ -45,7 +45,7 @@ Interatividade: As cartas são apresentadas de maneira interativa, incentivando 
 - JavaScript
 
 ## :globe_with_meridians: Disponível em 
-Projeto Pokémon no Netlify
+https://pokemonslider.netlify.app/
 
 ## Licença
 The [MIT License]() (MIT)
