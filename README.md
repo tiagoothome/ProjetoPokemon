@@ -40,7 +40,7 @@
 - HTML5;
 - CSS3;
 - JavaScript.
-- 
+  
 ## Licença
 The [MIT License]() (MIT)
 
