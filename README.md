@@ -38,12 +38,14 @@ Interatividade: As cartas são apresentadas de maneira interativa, incentivando 
 <div align="center"> <img src="https://github.com/tiagoothome/mapaDevWeek/assets/102389691/22f4edbd-c6a6-48e3-a7ce-fd04e118b520.png" width="600px" /> </div>
 
 ## Tecnologias Utilizadas :hammer_and_wrench:
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ## Disponível em :globe_with_meridians:
 Projeto Pokémon no Netlify
 
 ## Licença
-<p align="justify"> Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes. </p>
+The [MIT License]() (MIT)
+
+Copyright :copyright: 2023 - Tiago Tomé
