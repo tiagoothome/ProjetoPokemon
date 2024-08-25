@@ -10,18 +10,20 @@
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
+> Status do Projeto: :white_check_mark: (concluido) | :warning: (em desenvolvimento) | :x: (não iniciada)
+
 ### Tópicos
-:small_blue_diamond: [Descrição do Projeto](#writing_hand-descrição-do-projeto) 
+:small_blue_diamond: [Descrição do Projeto](#writing_hand-descrição-do-projeto) :white_check_mark:
 
-:small_blue_diamond: [Objetivo](#dart-objetivo) 
+:small_blue_diamond: [Objetivo](#dart-objetivo) :white_check_mark:
 
-:small_blue_diamond: [Funcionalidades](#video_game-funcionalidades) 
+:small_blue_diamond: [Funcionalidades](#video_game-funcionalidades) :white_check_mark:
 
-:small_blue_diamond: [Captura de Tela](#camera_flash-captura-de-tela) 
+:small_blue_diamond: [Captura de Tela](#camera_flash-captura-de-tela) :white_check_mark:
 
-:small_blue_diamond: [Tecnologias Utilizadas](#hammer_and_wrench-tecnologias-utilizadas) 
+:small_blue_diamond: [Tecnologias Utilizadas](#hammer_and_wrench-tecnologias-utilizadas) :white_check_mark:
 
-:small_blue_diamond: [Disponível em](#globe_with_meridians-disponível-em)
+:small_blue_diamond: [Disponível em](#globe_with_meridians-disponível-em) :white_check_mark:
 
 
 ## :writing_hand: Descrição do Projeto 
@@ -35,7 +37,7 @@ Exibição de Cartas: Exibe uma coleção de cartas de Pokémon, cada uma mostra
 Interatividade: As cartas são apresentadas de maneira interativa, incentivando a curiosidade e o engajamento das crianças.
 
 ## :camera_flash: Captura de Tela 
-<div align="center"> <img src="https://github.com/tiagoothome/mapaDevWeek/assets/102389691/22f4edbd-c6a6-48e3-a7ce-fd04e118b520.png" width="600px" /> </div>
+<div> <img src="https://github.com/tiagoothome/mapaDevWeek/assets/102389691/22f4edbd-c6a6-48e3-a7ce-fd04e118b520.png" width="600px" /> </div>
 
 ## :hammer_and_wrench: Tecnologias Utilizadas 
 - HTML5
