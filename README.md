@@ -11,38 +11,38 @@
 </p>
 
 ### Tópicos
-:small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto-writing_hand) ✔️
+:small_blue_diamond: [Descrição do Projeto](#writing_hand-descrição-do-projeto) 
 
-:small_blue_diamond: [Objetivo](#objetivo-dart) ✔️
+:small_blue_diamond: [Objetivo](#dart-objetivo) 
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades-video_game) ✔️
+:small_blue_diamond: [Funcionalidades](#video_game-funcionalidades) 
 
-:small_blue_diamond: [Captura de Tela](#captura-de-tela-camera_flash) ✔️
+:small_blue_diamond: [Captura de Tela](#camera_flash-captura-de-tela) 
 
-:small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas-hammer_and_wrench) ✔️
+:small_blue_diamond: [Tecnologias Utilizadas](#hammer_and_wrench-tecnologias-utilizadas) 
 
-:small_blue_diamond: [Disponível em](#disponível-em-globe_with_meridians)✔️
+:small_blue_diamond: [Disponível em](#globe_with_meridians-disponível-em)
 
 
-## Descrição do Projeto :writing_hand:
+## :writing_hand: Descrição do Projeto 
 <p align="justify"> O "Projeto Pokémon" foi desenvolvido durante a semana Dev Week com o objetivo de treinar futuros programadores. O site apresenta cartas com Pokémon, suas habilidades e pontuações, proporcionando uma experiência interativa e educativa, especialmente voltada para crianças. </p>
 
-## Objetivo :dart:
+## :dart: Objetivo 
 <p align="justify"> O projeto tem como objetivo criar uma plataforma divertida e educativa, onde as crianças podem explorar diferentes Pokémon, suas habilidades e características, incentivando o aprendizado de uma forma lúdica. </p>
 
-## Funcionalidades :video_game:
+## :video_game: Funcionalidades 
 Exibição de Cartas: Exibe uma coleção de cartas de Pokémon, cada uma mostrando suas habilidades e pontuações.
 Interatividade: As cartas são apresentadas de maneira interativa, incentivando a curiosidade e o engajamento das crianças.
 
-## Captura de Tela :camera_flash:
+## :camera_flash: Captura de Tela 
 <div align="center"> <img src="https://github.com/tiagoothome/mapaDevWeek/assets/102389691/22f4edbd-c6a6-48e3-a7ce-fd04e118b520.png" width="600px" /> </div>
 
-## Tecnologias Utilizadas :hammer_and_wrench:
+## :hammer_and_wrench: Tecnologias Utilizadas 
 - HTML5
 - CSS3
 - JavaScript
 
-## Disponível em :globe_with_meridians:
+## :globe_with_meridians: Disponível em 
 Projeto Pokémon no Netlify
 
 ## Licença
