@@ -33,16 +33,16 @@
 <p align="justify"> O projeto tem como objetivo criar uma plataforma divertida e educativa, onde as crianças podem explorar diferentes Pokémon, suas habilidades e características, incentivando o aprendizado de uma forma lúdica. </p>
 
 ## :video_game: Funcionalidades 
-Exibição de Cartas: Exibe uma coleção de cartas de Pokémon, cada uma mostrando suas habilidades e pontuações.
-Interatividade: As cartas são apresentadas de maneira interativa, incentivando a curiosidade e o engajamento das crianças.
+- Exibição de Cartas: Exibe uma coleção de cartas de Pokémon, cada uma mostrando suas habilidades e pontuações;
+- Interatividade: As cartas são apresentadas de maneira interativa, incentivando a curiosidade e o engajamento das crianças.
 
 ## :camera_flash: Captura de Tela 
 <div> <img src="https://github.com/tiagoothome/mapaDevWeek/assets/102389691/22f4edbd-c6a6-48e3-a7ce-fd04e118b520.png" width="600px" /> </div>
 
 ## :hammer_and_wrench: Tecnologias Utilizadas 
-- HTML5
-- CSS3
-- JavaScript
+- HTML5;
+- CSS3;
+- JavaScript.
 
 ## :globe_with_meridians: Disponível em 
 https://pokemonslider.netlify.app/
